@@ -68,7 +68,7 @@ nav{
 
   .line2{
     /*background-color: black;*/
-    width:1100;
+    width:947px;
     height:4px;
     margin:4px auto;
   }
@@ -219,6 +219,10 @@ h3{
 .ms{
 bottom: 290px;
 position:relative;
+height:300px;
+width:300px;
+left:50px;
+text-align: center;
 }
 
 .Ps{
@@ -248,10 +252,15 @@ top:68px;
 
 }
 
+p{
+  margin-block-start:1em;
+  margin-block-end:1em;
+}
+
 .ad{
   position: relative;
   left:450px;
-  top: 110px;
+  top: 90px;
 }
 
 .sprite{
